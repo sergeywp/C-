@@ -1,0 +1,11 @@
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\App.g.cs
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample_MarkupCompile.cache
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\bin\Debug\WpfExample.exe
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\bin\Debug\WpfExample.pdb
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\MainWindow.baml
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\MainWindow.g.cs
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample.g.resources
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample.exe
+c:\users\сергей\documents\visual studio 2010\Projects\WpfExample\WpfExample\obj\x86\Debug\WpfExample.pdb

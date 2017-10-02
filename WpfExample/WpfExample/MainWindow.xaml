@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Ellipse Fill="LightBlue" MouseUp="ellipseButton_MouseUp" MaxWidth="400" MaxHeight="200" Margin="202,54,66,57" />
+        <Label Background="Aqua" MaxWidth="100" MaxHeight="20" BorderBrush="#FF111010" OpacityMask="#FFD23636" Margin="22,185,381,106" />
+        <Calendar Margin="-85,12,241,144" />
+        <Viewport3D Margin="47,12,55,33" />
+        
+        
+        
+        
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\RotationPlain\WindowsFormsApplication1\obj\x86\Debug\RotationPlain.csproj.GenerateResource.Cache

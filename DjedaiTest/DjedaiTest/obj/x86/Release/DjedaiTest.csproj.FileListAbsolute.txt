@@ -1,0 +1,7 @@
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\bin\Release\DjedaiTest.exe
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\bin\Release\DjedaiTest.pdb
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\obj\x86\Release\DjedaiTest.Form1.resources
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\obj\x86\Release\DjedaiTest.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\obj\x86\Release\DjedaiTest.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\obj\x86\Release\DjedaiTest.exe
+c:\users\сергей\documents\visual studio 2010\Projects\DjedaiTest\DjedaiTest\obj\x86\Release\DjedaiTest.pdb
